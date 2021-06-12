@@ -1,6 +1,13 @@
 ## Projects with active participation
 
-* [Terramade Project] (https://github.com/felipe-pazam/Projeto-Terramade)
+* <a href="https://github.com/felipe-pazam/Projeto-Terramade">Terramade Project</a>
+
+Project designed to teach modern and ecological construction techniques to a general population.
+  
+   * Documents
+      
+      * <a href="">Lista de orgãos públicos, ONGs e organizações privadas<a>
+      
 
 
 ## Midias
