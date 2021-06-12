@@ -1,15 +1,10 @@
 
+## Projects with active participation
 
-<div>ok</div>
+* Terramade Project
 
-<style>
-div {
-    width: 100px;
-    height: 100px;
-    border-radius: 7px; 
-    border: 1px solid grey;
-    display: flex;
-    justify-content: center;
-    
-}
-</style>
+## Contact
+
+E-mail: felipe.coutinho.psl@gmail.com
+
+Linkedin: https://www.linkedin.com/in/felipe-pazam-565b6a208/
