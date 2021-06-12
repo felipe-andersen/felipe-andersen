@@ -1,10 +1,8 @@
 ## Projects with active participation
 
-* [Terramade Project] ()
+* [Terramade Project] (https://github.com/felipe-pazam/Projeto-Terramade)
 
 
-## Contact
-
-E-mail: felipe.coutinho.psl@gmail.com
+## Midias
 
 Linkedin: https://www.linkedin.com/in/felipe-pazam-565b6a208/
