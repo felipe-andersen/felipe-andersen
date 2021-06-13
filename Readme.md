@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-<img src="https://github.com/felipe-pazam/felipe-pazam/blob/main/">
+<img src="https://github.com/felipe-pazam/felipe-pazam/blob/main/mysvg.svg">
 
 
 ## Projects with active participation | Aproveite e deixe um Star
-=======
-
-## Projects with active participation
->>>>>>> 92198b5a12e9f902fa7d28bef3cea42327a288c9
 
 ### <a href="https://github.com/felipe-pazam/Projeto-Terramade">Terramade Project</a>
 
