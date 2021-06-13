@@ -8,16 +8,17 @@
 
 ### <a href="https://github.com/felipe-pazam/Projeto-Terramade">Terramade Project</a>
 
-Project designed to teach modern and ecological construction techniques to a general population.
+> Project designed to teach modern and ecological construction techniques to a general population.
   
    * Documents
       
       * <a href="">Lista de orgãos públicos, ONGs e organizações privadas<a>
 
-<img src="https://github.com/felipe-pazam/felipe-pazam/blob/main/decoraki-logo.PNG" align="right" width="300">      
-### <a href="https://github.com/felipe-pazam/Decoraki">Decoraki</a> by Vitor Abner
+<img src="http://www.decoraki.co/img/decoraki-full-logo.png" align="right" width="300">   
 
-3D Simulator for interior design
+### <a href="https://github.com/felipe-pazam/Decoraki">Decoraki</a> by <a href="https://github.com/vitorabner/decoraki">Vitor Abner</a>
+
+> 3D Simulator for interior design
   
    * Documents
       
