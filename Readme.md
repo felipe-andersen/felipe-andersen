@@ -14,7 +14,7 @@ Project designed to teach modern and ecological construction techniques to a gen
       
       * <a href="">Lista de orgãos públicos, ONGs e organizações privadas<a>
 
-<img src="imagens/mascote.png" align="right" width="300">      
+<img src="https://github.com/felipe-pazam/felipe-pazam/blob/main/octicon.svg" align="right" width="300">      
 ### <a href="https://github.com/felipe-pazam/Decoraki">Decoraki</a> by Vitor Abner
 
 3D Simulator for interior design
