@@ -1,7 +1,7 @@
 <img src="https://github.com/felipe-pazam/felipe-pazam/blob/main/mysvg.svg">
 
 
-## Projects with active participation | Aproveite e deixe um Star
+## Projects with active participation | How about leaving a star <img src="https://github.com/felipe-pazam/felipe-pazam/blob/main/octicon.svg">
 
 ### <a href="https://github.com/felipe-pazam/Projeto-Terramade">Terramade Project</a>
 
