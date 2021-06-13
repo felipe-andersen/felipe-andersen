@@ -1,5 +1,3 @@
-<img src="https://github.com/felipe-pazam/felipe-pazam/blob/main/dinamic.svg">
-
 
 ## Projects with active participation
 
