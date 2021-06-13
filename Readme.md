@@ -1,3 +1,6 @@
+<img src="https://github.com/felipe-pazam/felipe-pazam/blob/main/dinamic.svg">
+
+
 ## Projects with active participation
 
 ### <a href="https://github.com/felipe-pazam/Projeto-Terramade">Terramade Project</a>
