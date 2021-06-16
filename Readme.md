@@ -2,11 +2,11 @@
 
 
 
-<h1 align="center" >Hi guys, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Felipe Coutinho</h1> 
+<h1 align="center" >Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Felipe Coutinho</h1> 
 
 ## Projects with active participation | How about leaving a star <img src="https://github.com/felipe-pazam/felipe-pazam/blob/main/octicon.svg">
 
-Aplicando meus conhecimentos em projetos open-source.
+Applying my knowledge in open-source projects.
 
 ### <a href="https://github.com/felipe-pazam/Projeto-Terramade">Terramade Project</a>
 
