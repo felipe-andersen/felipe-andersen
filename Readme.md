@@ -7,11 +7,11 @@ ___
 <br>
 
 
-## Projects with active participation | How about leaving a star <img src="https://github.com/felipe-pazam/felipe-pazam/blob/main/octicon.svg">
+## &#128292; Projects with active participation | How about leaving a star <img src="https://github.com/felipe-pazam/felipe-pazam/blob/main/octicon.svg">
 
 Applying my knowledge in open-source projects.
 
-### <a href="https://github.com/felipe-pazam/Projeto-Terramade">Terramade Project</a>
+### &#127968; <a href="https://github.com/felipe-pazam/Projeto-Terramade">Terramade Project</a>
 
 Project designed to teach modern and ecological construction techniques to a general population. 
 
@@ -39,7 +39,7 @@ Recents
 
 <img src="http://www.decoraki.co/img/decoraki-full-logo.png" align="right" width="300">   
 
-### <a href="https://github.com/felipe-pazam/Decoraki">Decoraki</a> by <a href="https://github.com/vitorabner/decoraki">Vitor Abner</a>
+### &#127797; <a href="https://github.com/felipe-pazam/Decoraki">Decoraki</a> by <a href="https://github.com/vitorabner/decoraki">Vitor Abner</a>
 
 3D Simulator for interior design
 
