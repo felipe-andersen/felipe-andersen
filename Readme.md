@@ -25,7 +25,7 @@ Rio de Janeiro | 8 | 92 | 17 366 189
 
 Contry | Irregular housing (est.)
 ---|---
-Brazil | 65 557 130
+Brazil | 3 663 890
 
 Font: IBGE <a href="https://www.ibge.gov.br/cidades-e-estados"><img src="https://cdn.icon-icons.com/icons2/602/PNG/512/External_Link_icon-icons.com_55915.png" width="20px" height="20px"></a>
   
