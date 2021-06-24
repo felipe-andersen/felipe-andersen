@@ -11,6 +11,8 @@ ___
 
 Applying my knowledge in open-source projects.
 
+> There is no such thing as a perfect project, but working without a project is certainly a frustration.
+
 ### &#127968; <a href="https://github.com/felipe-pazam/Projeto-Terramade">Terramade Project</a>
 
 Project designed to teach modern and ecological construction techniques to a general population. 
