@@ -1,6 +1,6 @@
 <img src="https://github.com/felipe-pazam/felipe-pazam/blob/main/mysvg.svg">
 
-<h1 align="center" >Hi, I'm Felipe Coutinho</h1> 
+<h1 align="center" >Welcome! I'm Felipe Coutinho</h1> 
 
 ___
 <br>
