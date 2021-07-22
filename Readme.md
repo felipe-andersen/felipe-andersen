@@ -25,7 +25,7 @@ State | Regions | Cities | Total population
 ---|---|---|---
 Rio de Janeiro | 8 | 92 | 17 366 189 
 
-Contry | Irregular housing (est.)
+Contry | Irregular housing 
 ---|---
 Brazil | 3 663 890
 
