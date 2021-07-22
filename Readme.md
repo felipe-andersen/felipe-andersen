@@ -19,7 +19,7 @@ Project designed to teach modern and ecological construction techniques to a gen
 
 Contry | States | Cities | Territorial area (km²) | Estimated population | Demographic density
 ---|---|---|---|---|---
-Brasil | 26 | 5570 | 8.510.345,538 | 211.755.692 |  22,43 inhab/km²
+Brazil | 26 | 5570 | 8.510.345,538 | 211.755.692 |  22,43 inhab/km²
 
 State | Regions | Cities | Total population 
 ---|---|---|---
@@ -31,13 +31,6 @@ Brazil | 3 663 890
 
 Font: IBGE <a href="https://www.ibge.gov.br/cidades-e-estados"><img src="https://cdn.icon-icons.com/icons2/602/PNG/512/External_Link_icon-icons.com_55915.png" width="20px" height="20px"></a>
   
-Recents
-
-* added business information
-
-* "contratar" button added
-
-* business rule update
 
 <img src="http://www.decoraki.co/img/decoraki-full-logo.png" align="right" width="300">   
 
