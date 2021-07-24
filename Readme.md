@@ -10,13 +10,13 @@
 
 
 
-   * :soon: Web and mobile developer. I love starting new projects, collaborating with open-source projects and creating documentation
+   * :soon: Web and mobile developer. I love starting new projects, collaborating <br> with open-source projects and creating documentation
    
    * ⚡ Participating in <a href="https://rocketseat.com.br/">RocketSeat</a> botcamp [React Native specialization]
 
    * :construction: Working on a <a href="https://github.com/felipe-pazam/Projeto-Terramade">personal project</a>
    
-   * :sparkles:  I also <a href"https://github.com/felipe-pazam/E-learning">teach</a> what I learn through illustrative content
+   * :sparkles:  I also teach what I learn through <a href="https://github.com/felipe-pazam/E-learning">illustrative content </a>
    
    * 📫 Send me an e-mail
 
@@ -30,10 +30,8 @@
 
 <br>
 <br><br>
-<br><br>
-<br><br>
-<br><br><br>
-<br><br>
+
+
 
 
 
