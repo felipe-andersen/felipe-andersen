@@ -1,10 +1,32 @@
 <!--<img src="https://github.com/felipe-pazam/felipe-pazam/blob/main/mysvg.svg">-->
 
 <h1 align="center" >Welcome! I'm Felipe Coutinho</h1> 
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+</p>
 
-Junior Front-End
 
-Participando do botcamp RocketSeat [especialização React Native]
+
+   * :soon: Web and mobile developer. I love starting new projects, collaborating with open-source projects and creating documentation
+   
+   * ⚡ Participating in <a href="https://rocketseat.com.br/">RocketSeat</a> botcamp [React Native specialization]
+
+   * :construction: Working on a <a href="https://github.com/felipe-pazam/Projeto-Terramade">personal project</a>
+   
+   * :sparkles:  I also <a href"https://github.com/felipe-pazam/E-learning">teach</a> what I learn through illustrative content
+   
+   * 📫 Send me an e-mail
+
+<!--
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+</p>-->
 
 <br>
 <br><br>
