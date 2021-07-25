@@ -1,6 +1,6 @@
 <!--<img src="https://github.com/felipe-pazam/felipe-pazam/blob/main/mysvg.svg">-->
 
-<h1 align="center" >Hey! I'm Felipe Coutinho</h1> 
+<h1 align="center" >Hi, there I'm Felipe Coutinho</h1> 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
