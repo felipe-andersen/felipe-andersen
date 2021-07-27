@@ -11,6 +11,8 @@
   <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtwtsJK-chhNdCgK9ph6iC2HHWsoBm2GeKK6dqEEHyD66fwSvvhFP62hoksbadQIyIIRA&usqp=CAU" alt="javascript" width="20" height="20"/>
 </p>
 
+   * Aprendi iniciar projetos mobile em typescript usando a biblioteca react-native rodando em expo. Estudando sobre Docker e conteinerização.
+
    * :soon: Web and mobile developer. I love starting new projects, collaborating <br> with open-source projects and creating documentation
    
    * ⚡ Participating in <a href="https://rocketseat.com.br/">RocketSeat</a> botcamp [React Native specialization]
