@@ -6,9 +6,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+<img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="javascript" width="20" height="20"/>
+<img src="https://inceptum-stor.icons8.com/TErRc1E6L9wX/expoicon.jpg" alt="javascript" width="20" height="20"/>
+  <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtwtsJK-chhNdCgK9ph6iC2HHWsoBm2GeKK6dqEEHyD66fwSvvhFP62hoksbadQIyIIRA&usqp=CAU" alt="javascript" width="20" height="20"/>
 </p>
-
-
 
    * :soon: Web and mobile developer. I love starting new projects, collaborating <br> with open-source projects and creating documentation
    
