@@ -22,11 +22,12 @@
    * :sparkles:  I also teach what I learn through <a href="https://github.com/felipe-pazam/E-learning">illustrative content </a>
    
    * 📫 Send me an e-mail
-
-
-   E-mail: felipe.coutinho.psl@gmail.com  
    
-   Linkedin: https://www.linkedin.com/in/felipe-pazam-565b6a208/
+   <h2 align="right">Contact me</h2>
+
+   <p align="right">E-mail: felipe.coutinho.psl@gmail.com</p>
+   
+   <p align="right">Linkedin: <a href="https://www.linkedin.com/in/felipe-pazam-565b6a208/">felipe-pazam-565b6a208/</a></p>
 
 <!--
 <p align="center">
