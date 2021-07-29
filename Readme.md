@@ -11,7 +11,8 @@
   <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtwtsJK-chhNdCgK9ph6iC2HHWsoBm2GeKK6dqEEHyD66fwSvvhFP62hoksbadQIyIIRA&usqp=CAU" alt="javascript" width="20" height="20"/>
 </p>
 
-   * :heavy_plus_sign: Working with typescript mobile projects using a react-native library running in expo. Studying about Docker and Containerization.
+   * :heavy_plus_sign: Working with typescript mobile projects using a react-native library running in expo. Studying about 
+workflows, Docker and Containerization.
 
    * :soon: Web and mobile developer. I love starting new projects, collaborating <br> with open-source projects and creating documentation
    
