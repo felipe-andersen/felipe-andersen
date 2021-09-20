@@ -1,6 +1,8 @@
 <!--<img src="https://github.com/felipe-pazam/felipe-pazam/blob/main/mysvg.svg">-->
 
 <h1 align="center" >Hi there I'm Felipe Coutinho</h1> 
+
+<!--
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
@@ -9,7 +11,7 @@
 <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="javascript" width="20" height="20"/>
 <img src="https://inceptum-stor.icons8.com/TErRc1E6L9wX/expoicon.jpg" alt="javascript" width="20" height="20"/>
   <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtwtsJK-chhNdCgK9ph6iC2HHWsoBm2GeKK6dqEEHyD66fwSvvhFP62hoksbadQIyIIRA&usqp=CAU" alt="javascript" width="20" height="20"/>
-</p>
+</p>-->
 
    * :heavy_plus_sign: Working with typescript. Studying about workflows and Containerization.
 
