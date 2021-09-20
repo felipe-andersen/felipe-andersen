@@ -12,7 +12,7 @@
 </p>
 
    * :heavy_plus_sign: Working with typescript mobile projects using a react-native library running in expo. Studying about 
-workflows, Docker and Containerization.
+workflows and Containerization.
 
    * :soon: Web and mobile developer. I love starting new projects, collaborating <br> with open-source projects and creating documentation
    
