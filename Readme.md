@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/felipe-pazam/felipe-pazam/blob/main/Sunset%20at%20San%20Clemente%2C%20California.jpg" width="400">
+<img src="https://github.com/felipe-pazam/felipe-pazam/blob/main/Sunset%20at%20San%20Clemente%2C%20California.jpg" width="500">
 
 <h1>Hi there I'm Felipe Coutinho</h1> 
 
