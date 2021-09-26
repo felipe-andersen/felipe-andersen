@@ -22,12 +22,17 @@
    * :construction: Working on a <a href="https://github.com/felipe-pazam/Projeto-Terramade">personal project</a>
    
    * :sparkles:  I also teach what I learn through <a href="https://github.com/felipe-pazam/E-learning">illustrative content </a>
-   
+  
    
    <h2 align="right">Contact me</h2>
-   
+ 
    <p align="right">Linkedin: <a href="https://www.linkedin.com/in/felipe-pazam-565b6a208/">felipe-pazam-565b6a208/</a></p>
-
+    
+   <p align="center"><img src="https://pbs.twimg.com/profile_images/953680605526474752/kWjFjx3K_400x400.jpg" alt="SourceForce" hidth="40" height="40"></p>
+   <p align="center"></p>
+   <br>
+   <br>
+   <br>
 <!--
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
