@@ -45,7 +45,7 @@
 
 
 
-
+<!--
 
 ## &#128292; Projects with active participation | How about leaving a star <img src="https://github.com/felipe-pazam/felipe-pazam/blob/main/octicon.svg">
 
@@ -71,7 +71,7 @@ Brazil | 3 663 890
 
 Font: IBGE <a href="https://www.ibge.gov.br/cidades-e-estados"><img src="https://cdn.icon-icons.com/icons2/602/PNG/512/External_Link_icon-icons.com_55915.png" width="20px" height="20px"></a>
   
-<!--
+
 <img src="http://www.decoraki.co/img/decoraki-full-logo.png" align="right" width="300">   
 
 ### &#127797; <a href="https://github.com/felipe-pazam/Decoraki">Decoraki</a> by <a href="https://github.com/vitorabner/decoraki">Vitor Abner</a>
