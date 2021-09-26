@@ -13,7 +13,7 @@
   <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtwtsJK-chhNdCgK9ph6iC2HHWsoBm2GeKK6dqEEHyD66fwSvvhFP62hoksbadQIyIIRA&usqp=CAU" alt="javascript" width="20" height="20"/>
 </p>-->
 
-   * :heavy_plus_sign: Working with typescript. Studying about workflows and Containerization.
+   * :heavy_plus_sign: Studying about workflows and Containerization.
 
    * :soon: Web and mobile developer. I love starting new projects, collaborating <br> with open-source projects and creating documentation
    
@@ -23,11 +23,8 @@
    
    * :sparkles:  I also teach what I learn through <a href="https://github.com/felipe-pazam/E-learning">illustrative content </a>
    
-   * 📫 Send me an e-mail
    
    <h2 align="right">Contact me</h2>
-
-   <p align="right">E-mail: felipe.coutinho.psl@gmail.com</p>
    
    <p align="right">Linkedin: <a href="https://www.linkedin.com/in/felipe-pazam-565b6a208/">felipe-pazam-565b6a208/</a></p>
 
