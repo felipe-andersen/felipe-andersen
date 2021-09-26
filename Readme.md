@@ -1,4 +1,4 @@
-<img width="auto" style="width: 100%;" src="https://github.com/felipe-pazam/felipe-pazam/blob/main/california2.jpg">
+<img height="300" src="https://thumbs.dreamstime.com/b/d-sunset-beach-retro-palms-vector-sci-fi-background-digital-landscape-cyber-surface-s-party-220599365.jpg">
 
 <h1>Hi there I'm Felipe Coutinho</h1> 
 
