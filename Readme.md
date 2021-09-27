@@ -20,18 +20,16 @@
 
    * :heavy_plus_sign: Studying about workflows and Containerization.
 
-   * :soon: Web and mobile developer. I love starting new projects, collaborating <br> with open-source projects and creating documentation
+   * I love starting new projects and collaborating with open-source projects
    
    * ⚡ Participating in <a href="https://rocketseat.com.br/">RocketSeat</a> botcamp [React Native specialization]
 
-   * :construction: Working on a <a href="https://github.com/felipe-pazam/Projeto-Terramade">personal project</a>
-   
-   * :sparkles:  I also teach what I learn through <a href="https://github.com/felipe-pazam/E-learning">illustrative content </a>
+
   
    
    <h2>Contact me</h2>
  
-   <p>Linkedin: <a href="https://www.linkedin.com/in/felipe-pazam-565b6a208/">felipe-pazam-565b6a208/</a></p>
+   <!--<p>Linkedin: <a href="https://www.linkedin.com/in/felipe-pazam-565b6a208/">felipe-pazam-565b6a208/</a></p>-->
     
    <!--<p align="center"><img src="https://pbs.twimg.com/profile_images/953680605526474752/kWjFjx3K_400x400.jpg" alt="SourceForce" hidth="40" height="40"></p>-->
  
