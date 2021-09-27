@@ -7,17 +7,6 @@
 	
 <h1>Hi there I'm Felipe Coutinho</h1> 
 
-<!--
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="javascript" width="20" height="20"/>
-<img src="https://inceptum-stor.icons8.com/TErRc1E6L9wX/expoicon.jpg" alt="javascript" width="20" height="20"/>
-  <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtwtsJK-chhNdCgK9ph6iC2HHWsoBm2GeKK6dqEEHyD66fwSvvhFP62hoksbadQIyIIRA&usqp=CAU" alt="javascript" width="20" height="20"/>
-</p>-->
-
    * :heavy_plus_sign: Studying about workflows and Containerization.
 
    * I love starting new projects and collaborating with open-source projects
@@ -28,12 +17,10 @@
   
    
    
- 
-   <!--<p>Linkedin: <a href="https://www.linkedin.com/in/felipe-pazam-565b6a208/">felipe-pazam-565b6a208/</a></p>-->
     
    <!--<p align="center"><img src="https://pbs.twimg.com/profile_images/953680605526474752/kWjFjx3K_400x400.jpg" alt="SourceForce" hidth="40" height="40"></p>-->
  
- <br>
+ 
 <!--
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
@@ -82,8 +69,6 @@ Font: IBGE <a href="https://www.ibge.gov.br/cidades-e-estados"><img src="https:/
 
 Website: http://www.decoraki.co/
 
-<br>
-<br>
-<br>
+
 
 -->
