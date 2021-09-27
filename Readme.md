@@ -27,7 +27,7 @@
 
   
    
-   <h2>Contact me</h2>
+   
  
    <!--<p>Linkedin: <a href="https://www.linkedin.com/in/felipe-pazam-565b6a208/">felipe-pazam-565b6a208/</a></p>-->
     
