@@ -50,7 +50,7 @@ Contry | States | Cities | Territorial area (km²) | Estimated population | Demo
 ---|---|---|---|---|---
 Brazil | 26 | 5570 | 8.510.345,538 | 211.755.692 |  22,43 inhab/km²
 
-State | Regions | Cities | Total population 
+State | Regions | Cities |  population 
 ---|---|---|---
 Rio de Janeiro | 8 | 92 | 17 366 189 
 
