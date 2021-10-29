@@ -7,9 +7,9 @@
 	
 <h1>Hi there I'm Felipe</h1> 
 
-   * :heavy_plus_sign: Learning workflows and containerization..
+   * :heavy_plus_sign: Learning workflows and containerization.
 
-   * :speaker: Subjects of interest to me: user experience, design pattern, machine learning e cloud computing.
+   * :speaker: Subjects of interest to me: user experience, design pattern, machine learning and cloud computing.
    
    * ⚡ Participating in <a href="https://rocketseat.com.br/">RocketSeat</a> botcamp [React Native specialization]
 
