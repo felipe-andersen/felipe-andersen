@@ -7,7 +7,7 @@
 	
 <h1>Hi there I'm Felipe</h1> 
 
-   * :heavy_plus_sign: Studying about workflows and Containerization.
+   * :heavy_plus_sign: Learning workflows and containerization..
 
    * :speaker: Subjects of interest to me: user experience, design pattern, machine learning e cloud computing.
    
