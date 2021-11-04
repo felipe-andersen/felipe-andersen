@@ -11,7 +11,7 @@
 
    * ⚡ Participating in <a href="https://rocketseat.com.br/">RocketSeat</a> botcamp [React Native specialization]
 
-   * :speaker: Subjects of interest to me: user experience, design pattern, machine learning and cloud computing.
+   * :speaker: Subjects of interest to me: user experience, machine learning and cloud computing.
    
   
    
