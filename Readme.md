@@ -9,11 +9,10 @@
 
    * :heavy_plus_sign: Learning workflows and containerization.
 
-   * :speaker: Subjects of interest to me: user experience, design pattern, machine learning and cloud computing.
-   
    * ⚡ Participating in <a href="https://rocketseat.com.br/">RocketSeat</a> botcamp [React Native specialization]
 
-
+   * :speaker: Subjects of interest to me: user experience, design pattern, machine learning and cloud computing.
+   
   
    
    
