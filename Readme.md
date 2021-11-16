@@ -71,6 +71,6 @@ Website: http://www.decoraki.co/
 
 
 -->
-https://img.shields.io/github/watchers/{felipe-andersen}/{felipe-andersen}.svg
+https://img.shields.io/github/watchers/felipe-andersen/felipe-andersen.svg
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/felipe-andersen/count.svg" /></p>
