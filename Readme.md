@@ -71,3 +71,6 @@ Website: http://www.decoraki.co/
 
 
 -->
+
+
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/felipe-andersen/count.svg" /></p>
