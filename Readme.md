@@ -1,8 +1,11 @@
 <img  width="100%" src="https://i2.wp.com/jornal.usp.br/wp-content/uploads/2021/01/20200501_oceano.jpg?resize=1200%2C630&ssl=1">
-<p><a href=""><img  src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<p>
+<a href=""><img  src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/felipe-andersen-565b6a208/"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://discord.gg/pDbY76q8Qf"><img  src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465">
 </p></a>
+
+
 	
 	
 <h1>Hello World I'm Felipe</h1> 
@@ -13,8 +16,11 @@
 
    * :speaker: Subjects of interest to me: <mark>user experience,</mark> <mark>IaaS</mark> and <mark>cloud computing</mark>.
    
+  <br/>
+  <br/>
+  <br/>
   
-   
+  <p align="center" href=""><img  width="5%" src="https://media.giphy.com/media/UrzWDQ3VTiDU84R5dx/giphy.gif"></p>
    
     
    <!--<p align="center"><img src="https://pbs.twimg.com/profile_images/953680605526474752/kWjFjx3K_400x400.jpg" alt="SourceForce" hidth="40" height="40"></p>-->
