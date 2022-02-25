@@ -7,11 +7,11 @@
 	
 <h1>Hello World I'm Felipe</h1> 
 
-   * :heavy_plus_sign: Learning workflows and containerization.
+   * :heavy_plus_sign: Learning workflows and microservices.
 
    * ⚡ Participating in <a href="https://rocketseat.com.br/">RocketSeat</a> botcamp [React Native specialization]
 
-   * :speaker: Subjects of interest to me: <mark>user experience,</mark> <mark>machine learning</mark> and <mark>cloud computing</mark>.
+   * :speaker: Subjects of interest to me: <mark>user experience,</mark> <mark>IaaS</mark> and <mark>cloud computing</mark>.
    
   
    
