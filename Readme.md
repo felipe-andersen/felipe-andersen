@@ -15,7 +15,12 @@
    * ⚡ Participating in <a href="https://rocketseat.com.br/">RocketSeat</a> botcamp [React Native specialization]
 
    * :speaker: Subjects of interest to me: <mark>user experience,</mark> <mark>IaaS</mark> and <mark>cloud computing</mark>.
-   
+     
+### My projects
+
+- 🌐 <a href="">TRM web</a>
+- 📱 <a href="">TRM mobile</a>
+- 💳 <a href="">E-commerce</a>
   <br/>
   <br/>
   <br/>
