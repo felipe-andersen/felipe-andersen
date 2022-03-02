@@ -1,6 +1,6 @@
 <img  width="100%" src="https://i2.wp.com/jornal.usp.br/wp-content/uploads/2021/01/20200501_oceano.jpg?resize=1200%2C630&ssl=1">
 <p>
-<a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/spotify.png"/></a>
+<a href=""><img src="https://img.icons8.com/color-glass/48/000000/spotify.png"/></a>
 <a href="https://www.linkedin.com/in/felipe-andersen-565b6a208/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png"/></a>
 <a href="https://discord.gg/pDbY76q8Qf"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
 </p>
