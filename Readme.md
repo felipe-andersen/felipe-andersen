@@ -25,6 +25,16 @@
   <br/>
   <br/>
   
+### Recent Releases
+
+* 2022-02-14 – TRM web v2.14.5
+Update
+<details>
+<summary>
+  v2.14.5 release notes
+</summary>
+	
+
   <p align="center" href=""><img  width="5%" src="https://media.giphy.com/media/UrzWDQ3VTiDU84R5dx/giphy.gif"></p>
    
     
