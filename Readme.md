@@ -2,9 +2,10 @@
 <p>
 <a title="Spotify playlist" href=""><img src="https://img.icons8.com/color-glass/48/000000/spotify.png"/></a>
 <a title="Linkedin profile"href="https://www.linkedin.com/in/felipe-andersen-565b6a208/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png"/></a>
-<a title="Email" href="https://discord.gg/pDbY76q8Qf"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
+<a title="Email" href="https://discord.gg/pDbY76q8Qf"><img src="https://img.icons8.com/color-glass/48/000000/email-sign.png"/></a>
+	
+	
 </p>
-
 
 	
 	
@@ -33,6 +34,7 @@ Update
 <summary>
   v2.14.5 release notes
 </summary>
+</details>
 	
 
   <p align="center" href=""><img  width="5%" src="https://media.giphy.com/media/UrzWDQ3VTiDU84R5dx/giphy.gif"></p>
@@ -89,9 +91,11 @@ Font: IBGE <a href="https://www.ibge.gov.br/cidades-e-estados"><img src="https:/
 
 Website: http://www.decoraki.co/
 
+<a href="https://icons8.com/icon/6DNhdpmVvKyn/sinal-de-e-mail">Sinal de e-mail icon by Icons8</a>
+
 
 
 -->
-
+<a href="https://icons8.com/icon/6DNhdpmVvKyn/sinal-de-e-mail">Sinal de e-mail icon by Icons8</a>
 
 
