@@ -10,7 +10,7 @@
 	
 <h1>Welcome!!!</h1> 
 
-   * :heavy_plus_sign: Learning workflows and microservices.
+   * :heavy_plus_sign: Studying workflows and microservices.
 
    * :speaker: Subjects of interest to me: <mark>user experience,</mark> <mark>IaaS</mark> and <mark>cloud computing</mark>.
      
