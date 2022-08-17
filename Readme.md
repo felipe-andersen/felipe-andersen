@@ -2,7 +2,7 @@
 <p>
 <a title="Spotify playlist" href=""><img src="https://img.icons8.com/color-glass/48/000000/spotify.png"/></a>
 <a title="Linkedin profile"href="https://www.linkedin.com/in/felipe-andersen-565b6a208/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png"/></a>
-<a title="Email" href="https://discord.gg/pDbY76q8Qf"><img src="https://img.icons8.com/color-glass/48/000000/email-sign.png"/></a>
+<a title="Email" href="felipe.coutinho.psl@gmail.com"><img alt="E-mail" src="https://img.icons8.com/color-glass/48/000000/email-sign.png"/></a>
 </p>
 
 <!--
