@@ -35,7 +35,7 @@ Update
 </details>
 
 -->
-<a href="https://icons8.com/icon/6DNhdpmVvKyn/sinal-de-e-mail">Sinal de e-mail icon by Icons8</a>
+
   <p align="center" href=""><img  width="5%" src="https://media.giphy.com/media/UrzWDQ3VTiDU84R5dx/giphy.gif"></p>
    
     
